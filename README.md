@@ -1,4 +1,4 @@
-# Minor Project-2 - Traffic Light Controller Using Verilog
+# Mini Project-2 - Traffic Light Controller Using Verilog
 
 ## Description
 This project implements a Traffic Light Controller using Verilog. The controller manages traffic signals with proper timing and state transitions.
