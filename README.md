@@ -16,3 +16,9 @@ https://www.edaplayground.com/x/NJBC
 ## Files
 - design.sv - Main controller code
 - testbench.sv - Testing kosam
+
+- ## Results
+
+Simulation successful ga run ayyindhi.
+
+![Waveform](waveform.png)
