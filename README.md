@@ -16,6 +16,7 @@ RED -> GREEN -> YELLOW -> RED
 ## Modules
 - `design.sv` - Traffic Light Controller design
 - `testbench.sv` - Testbench for verification
+- `waveform`
 
 ## Simulation
 - Tool: EDA Playground (Icarus Verilog + GTKWave)
