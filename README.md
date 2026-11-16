@@ -14,7 +14,7 @@ States change one after another:
 RED -> GREEN -> YELLOW -> RED
 
 ## Modules
-- `design.sv` - Traffic Light Controller design
+- `controller.sv` - Traffic Light Controller design
 - `testbench.sv` - Testbench for verification
 - `waveform.png` - output photo
 
