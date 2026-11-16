@@ -31,5 +31,6 @@ RED -> GREEN -> YELLOW -> RED
 - GTKWave
 
 ## Author
-Esther Rani
-B.Tech - Electronics and Communication
+Muvva Esther Rani
+
+B.Tech - Electronics and Communication Engineering
